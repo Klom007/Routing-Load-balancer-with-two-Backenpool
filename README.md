@@ -1,0 +1,1 @@
+# Routing-Load-balancer-with-two-Backenpool  Routing traffic from external loadbalancer to two backendpool (2 Vms) in two different availability zones, through the Public i.p of the loadbalancer, and allowing the inbound rule in the Nsg to allow free flow of  traffic. The aim of it is to have at least one the zone to be available incase of  downtime.
